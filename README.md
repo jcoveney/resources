@@ -2,7 +2,7 @@ This is a collection of papers and books that have been useful to the Data Platf
 
 Many of these papers are available for free online; I welcome pull requests to update links to papers, or of course to add new papers and books.
 
-Papers and Books presented in alphabetical order by subject and by title.
+Content generally presented in alphabetical order by subject and title.
 
 # Papers
 
