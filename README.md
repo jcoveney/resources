@@ -1,6 +1,3 @@
-resources
-=========
-
 This is a collection of papers and books that have been useful to the Data Platform team at Twitter, as well as a collection put together by Peter Seibel [here](https://gist.github.com/gigamonkey/6151820).
 
 Many of these papers are available for free online; I welcome pull requests to update links to papers, or of course to add new papers and books.
